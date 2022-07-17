@@ -8,7 +8,6 @@
 import Foundation
 
 class Session {
-    
     private init() {}
     static let instance = Session()
     
